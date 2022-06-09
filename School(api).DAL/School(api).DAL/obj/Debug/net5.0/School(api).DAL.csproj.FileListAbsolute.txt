@@ -1,0 +1,12 @@
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\bin\Debug\net5.0\School(api).DAL.deps.json
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\bin\Debug\net5.0\School(api).DAL.dll
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\bin\Debug\net5.0\ref\School(api).DAL.dll
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\bin\Debug\net5.0\School(api).DAL.pdb
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\School(api).DAL.csproj.AssemblyReference.cache
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\School(api).DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\School(api).DAL.AssemblyInfoInputs.cache
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\School(api).DAL.AssemblyInfo.cs
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\School(api).DAL.csproj.CoreCompileInputs.cache
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\School(api).DAL.dll
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\ref\School(api).DAL.dll
+C:\Users\oguza\source\repos\School(api).DAL\School(api).DAL\obj\Debug\net5.0\School(api).DAL.pdb
